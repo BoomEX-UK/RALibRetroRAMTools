@@ -1,0 +1,17 @@
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\bin\Debug\net6.0-windows\RALibRetroRAMTools.exe
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\bin\Debug\net6.0-windows\RALibRetroRAMTools.deps.json
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\bin\Debug\net6.0-windows\RALibRetroRAMTools.runtimeconfig.json
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\bin\Debug\net6.0-windows\RALibRetroRAMTools.dll
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\bin\Debug\net6.0-windows\RALibRetroRAMTools.pdb
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.csproj.AssemblyReference.cache
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.csproj.GenerateResource.cache
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.AssemblyInfoInputs.cache
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.AssemblyInfo.cs
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.csproj.CoreCompileInputs.cache
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.dll
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\refint\RALibRetroRAMTools.dll
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.pdb
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.genruntimeconfig.cache
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\ref\RALibRetroRAMTools.dll
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.frmManager.resources
