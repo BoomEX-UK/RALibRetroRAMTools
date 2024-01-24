@@ -32,3 +32,4 @@ C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\
 C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.pdb
 C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.genruntimeconfig.cache
 C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\ref\RALibRetroRAMTools.dll
+C:\Users\prest\Documents\GitHub\RALibRetroRAMTools\RALibRetroRAMTools\obj\Debug\net6.0-windows\RALibRetroRAMTools.Forms.frmInspector.resources
